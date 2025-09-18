@@ -10,11 +10,8 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
-    print("You pull the sword out and feel a surge of power!")
-    print("Congratulations, you are now the hero of the forest!")
-
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
-
+    print("iy fights u")
 if __name__ == "__main__":
     intro()
